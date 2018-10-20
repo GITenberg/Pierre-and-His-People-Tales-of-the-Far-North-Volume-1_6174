@@ -1,5 +1,5 @@
 _repo: Pierre-and-His-People-Tales-of-the-Far-North-Volume-1_6174
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Short stories, Canadian'
 - !lcc 'PS'
 - !lcsh 'Canada, Northern -- Fiction'
+- GITenberg
 tableOfContents: The patrol of the Cypress Hills -- God's garrison -- A hazard of
   the North.
 title: 'Pierre and His People: Tales of the Far North. Volume 1.'
